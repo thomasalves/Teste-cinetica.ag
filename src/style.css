@@ -183,7 +183,7 @@ footer{
     }
 
     .title, .text{
-        
+
         text-align: center;
         margin-bottom: 30px;
     }
@@ -202,7 +202,9 @@ footer{
     }
 
     #developer{
-        background-size: cover;
+        
+        height: 40vh;
+        width: 100vw;
     }
 
   }
