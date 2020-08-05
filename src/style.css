@@ -3,7 +3,6 @@ body{
     font-family: "boton";
     background: linear-gradient(to top, #130D36 0%, #7E649F 100%) ;
 }
-
 .container-fluid{
     background: #412856;
     color: white;
@@ -137,7 +136,7 @@ h1{
 .col-md{
     margin: 20px ;
     border-right: 1px solid white;
-    padding-right: 20px;
+    padding-right: 25px;
     padding-left: 0px;
     height: 220px;
     width: 240px;
@@ -196,6 +195,7 @@ footer{
     }
     .title{
         margin-top: 10px;
+
     }
 
 
@@ -211,6 +211,7 @@ footer{
 
         height: 40vh;
         width: 100vw;
+        padding: 0px;
     }
 
   }
