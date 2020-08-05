@@ -15,6 +15,11 @@ body{
 
 }
 
+.texto{
+    font-size: 1.5rem;
+    line-height: 25px;
+}
+
 h1{
     font-style: normal;
     letter-spacing: 0.02em;
@@ -202,7 +207,7 @@ footer{
     }
 
     #developer{
-        
+
         height: 40vh;
         width: 100vw;
     }
